@@ -9,10 +9,8 @@ The repository contains the Python implementation using the PyTorch framework to
 
 If you find this work useful in your research, you can cite our paper !!!!!!www  or  as per the following:  !!!!!bib
 ## Contains
-***Lorenz_RK4PINN.ipynb*** contains code for jupyternotebook 
+***RK4PINN_for_Duffing_SDOF.ipynb*** contains code for jupyternotebook 
 
-***R28_Lorenz_data_train_noise1.npy*** contains the Lorenz dataset used for training
+***EL_Duffing_SDOF_noise1.npy*** contains the SDOF Duffing dataset used for training
 
-***models*** folder contains the trained model and the output images from the training process：
-
-Estimation process for the parameters of the Lorenz system  !!!!!! ![alt text](.png)
+Estimation process for the parameters of the SDOF Duffing system  !!!!!! ![alt text](.png)
