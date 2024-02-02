@@ -6,8 +6,11 @@ The repository contains the Python implementation using the PyTorch framework to
 
 
 ## Contains
-***RK4PINN_for_Duffing_SDOF.ipynb*** contains code for jupyternotebook <br>
+***RK4PINN_for_Duffing_SDOF.ipynb*** contains SDOF Duffing code for jupyternotebook <br>
 ***EL_Duffing_SDOF_noise1.npy*** contains the SDOF Duffing dataset used for training <br>
+
+***RRK4PINN_for_Lorenz.ipynb*** contains Lorenz code for jupyternotebook <br>
+***Lorenz_data_train_noise1.npy*** contains the Lorenz dataset used for training <br>
 
 
 ## Citation
