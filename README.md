@@ -6,19 +6,19 @@ The repository contains the Python implementation using the PyTorch framework to
 
 
 ## Contains
-***RK4PINN_for_Duffing_SDOF.ipynb*** contains code for jupyternotebook 
-***EL_Duffing_SDOF_noise1.npy*** contains the SDOF Duffing dataset used for training
+***RK4PINN_for_Duffing_SDOF.ipynb*** contains code for jupyternotebook <br>
+***EL_Duffing_SDOF_noise1.npy*** contains the SDOF Duffing dataset used for training <br>
 
 
 ## Citation
 If you find this work useful in your research, you can cite our paper：
-@article{zhai2023parameter,
-  title={Parameter estimation and modeling of nonlinear dynamical systems based on Runge--Kutta physics-informed neural network},
-  author={Zhai, Weida and Tao, Dongwang and Bao, Yuequan},
-  journal={Nonlinear Dynamics},
-  volume={111},
-  number={22},
-  pages={21117--21130},
-  year={2023},
-  publisher={Springer}
-}
+> @article{zhai2023parameter, <br>
+  title={Parameter estimation and modeling of nonlinear dynamical systems based on Runge--Kutta physics-informed neural network},<br>
+  author={Zhai, Weida and Tao, Dongwang and Bao, Yuequan},<br>
+  journal={Nonlinear Dynamics},<br>
+  volume={111},<br>
+  number={22},<br>
+  pages={21117--21130},<br>
+  year={2023},<br>
+  publisher={Springer}<br>
+  }
