@@ -11,6 +11,8 @@ The repository contains the Python implementation using the PyTorch framework to
 ***RK4PINN_for_Lorenz.ipynb*** contains Lorenz code for jupyternotebook <br>
 ***Lorenz_data_train_noise1.npy*** contains the Lorenz dataset used for training <br>
 
+## Tips
+Due to confidentiality restrictions in research collaboration, only the core code section of Lorenz example is shown here. The core code section of Lorenz example has already demonstrated the parameter estimation process of RK4PINN. Compared to the original paper, additional partial derivatives set to zero have been added to the physics loss function, making the code more robust and preventing it from falling into local optimality.
 
 ## Citation
 Please cite the following paper if you find the work relevant and useful in your research:
